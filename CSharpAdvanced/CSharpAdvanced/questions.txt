@@ -1,0 +1,18 @@
+﻿Czy C# jest fajny?
+Tak
+Nie
+Nie wiem
+Chyba tak
+A5
+Czy potrzebuję coś oprócz tego kursu, aby być bardzo dobrym programistą C#??
+Nie
+Tak
+Nie wiem
+Potrzebuję praktyki i doświadczenia - zacznij kodować!
+D8
+W jakim IDE nie napiszesz kodu C#?
+Visual Studio
+Visual Studio for MAC
+Visual Studio Code
+IntelolliJ
+D2
