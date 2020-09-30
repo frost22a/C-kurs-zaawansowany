@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz", "CSharpAdvanced\Quiz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{D2EBE1A1-0FE8-4D68-B760-7BB16FF5C299}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{A5625E9D-F035-41EB-A388-987BE5E5108B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D2EBE1A1-0FE8-4D68-B760-7BB16FF5C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2EBE1A1-0FE8-4D68-B760-7BB16FF5C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2EBE1A1-0FE8-4D68-B760-7BB16FF5C299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5625E9D-F035-41EB-A388-987BE5E5108B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5625E9D-F035-41EB-A388-987BE5E5108B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5625E9D-F035-41EB-A388-987BE5E5108B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5625E9D-F035-41EB-A388-987BE5E5108B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
