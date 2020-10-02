@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObjects", "Generics\Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharp1", "AdvancedCSharp1\AdvancedCSharp1.csproj", "{72BDC8E5-793C-426F-98B4-2585A737299B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{10C80D25-655C-4DD5-861A-BE9E77407658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{72BDC8E5-793C-426F-98B4-2585A737299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72BDC8E5-793C-426F-98B4-2585A737299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72BDC8E5-793C-426F-98B4-2585A737299B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C80D25-655C-4DD5-861A-BE9E77407658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C80D25-655C-4DD5-861A-BE9E77407658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C80D25-655C-4DD5-861A-BE9E77407658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C80D25-655C-4DD5-861A-BE9E77407658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
