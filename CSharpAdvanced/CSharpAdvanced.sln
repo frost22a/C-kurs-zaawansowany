@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharp1", "Advanced
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{10C80D25-655C-4DD5-861A-BE9E77407658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "Interfaces\DependencyInjection.csproj", "{1DCFF230-39D2-4F40-9B15-0D36FA7B8339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{10C80D25-655C-4DD5-861A-BE9E77407658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10C80D25-655C-4DD5-861A-BE9E77407658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10C80D25-655C-4DD5-861A-BE9E77407658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCFF230-39D2-4F40-9B15-0D36FA7B8339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCFF230-39D2-4F40-9B15-0D36FA7B8339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCFF230-39D2-4F40-9B15-0D36FA7B8339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCFF230-39D2-4F40-9B15-0D36FA7B8339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
