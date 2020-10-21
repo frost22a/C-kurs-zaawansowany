@@ -69,6 +69,9 @@ namespace Linq
 
             var newList = listOfInts.Where(x => x > 5).ToList();
 
+            var newList2 = listOfInts.Where((x, i) => x > 4 && i % 2 == 0);
+            var newList3 = listOfInts.OrderByDescending(x => x).Take(2);
+
             //foreach za pomocą linq:
 
             listOfInts.ForEach(x =>
